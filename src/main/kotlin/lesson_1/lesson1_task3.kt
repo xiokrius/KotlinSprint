@@ -4,7 +4,7 @@ fun main() {
     var hour: Byte = 9
     var minute: Byte = 7
 
-        println("$year")
+        println(year)
         println("%02d".format(hour))
         println("%02d".format(minute))
 
